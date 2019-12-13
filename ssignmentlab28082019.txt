@@ -1,0 +1,5 @@
+
+TASK 3:
+
+1. Triple quotes are used as a DOCstring. When we use help <module name>, we get the description of the module for the user to understand its functionality. This is not executable by python.
+2. When we import xyz, we are importing all functions of that module. But if we use from xyz import abc, it means we are using only      
